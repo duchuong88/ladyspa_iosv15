@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "390050446340",
+    "firebase_url": "https://lady-spa-8148a-default-rtdb.firebaseio.com",
+    "project_id": "lady-spa-8148a",
+    "storage_bucket": "lady-spa-8148a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390050446340:android:4b2110a104aca3f3920951",
+        "android_client_info": {
+          "package_name": "vn.ladyezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6iDsq30KVZu1B6l6VRfbtergrmYrI6ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

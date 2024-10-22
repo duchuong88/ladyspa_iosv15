@@ -1,0 +1,36 @@
+9A42F153208921FEFBA861231071CF5D3B8C58E8
+
+gmail mới
+hanhtrang7706@gmail.com / 0983119902
+
+
+lady.ezs.vn / sysuser_a / Okdf2?19
+
+
+Tên app: Lady Spa
+Màu App:  1 màu duy nhất
+Slogan: beauty & Spa
+
+
+#d1ae3d
+
+
+
+vn.ladyezs
+
+
+
+BM6p6gsSxcAm6FQFRcbUNPvBXcHpMf1N3YOsswKe8i5H3C8GEF-T-GpBUlLr9iZTyRoZA6av4rVfDG-ncK4xm-I
+
+
+  apiKey: "AIzaSyB04Je1Zvtlrfqo9Xdky-Ra3Xua0jAcVnk",
+  authDomain: "lady-spa-8148a.firebaseapp.com",
+  databaseURL: "https://lady-spa-8148a-default-rtdb.firebaseio.com",
+  projectId: "lady-spa-8148a",
+  storageBucket: "lady-spa-8148a.appspot.com",
+  messagingSenderId: "390050446340",
+  appId: "1:390050446340:web:850374c5389413f3920951",
+  measurementId: "G-PSHVW4PJ63"
+
+
+Lady Spa, chăn sóc da chuyên sâu, Massage cổ vai gáy, Trị mụn, Trị nám, Triệt lông
